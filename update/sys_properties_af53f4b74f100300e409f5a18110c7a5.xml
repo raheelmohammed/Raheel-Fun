@@ -5,26 +5,26 @@
         <description/>
         <ignore_cache>false</ignore_cache>
         <is_private>false</is_private>
-        <name>x_70399_raheel_fun.Fun2 Prop</name>
+        <name>x_70399_raheel_fun.Fun3 Prop</name>
         <read_roles/>
-        <suffix>Fun2 Prop</suffix>
+        <suffix>Fun3 Prop</suffix>
         <sys_class_name>sys_properties</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-08-07 07:45:24</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_id>300278774f100300e409f5a18110c7bd</sys_id>
+        <sys_created_on>2017-08-07 07:51:30</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>af53f4b74f100300e409f5a18110c7a5</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_70399_raheel_fun.Fun2 Prop</sys_name>
+        <sys_name>x_70399_raheel_fun.Fun3 Prop</sys_name>
         <sys_package display_value="Raheel Fun" source="x_70399_raheel_fun">7b8078374f100300e409f5a18110c712</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="Raheel Fun">7b8078374f100300e409f5a18110c712</sys_scope>
-        <sys_update_name>sys_properties_300278774f100300e409f5a18110c7bd</sys_update_name>
+        <sys_update_name>sys_properties_af53f4b74f100300e409f5a18110c7a5</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-08-07 07:45:24</sys_updated_on>
+        <sys_updated_on>2017-08-07 07:51:30</sys_updated_on>
         <type>string</type>
         <value/>
         <write_roles/>
     </sys_properties>
-    <sys_translated_text action="delete_multiple" query="documentkey=300278774f100300e409f5a18110c7bd"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=af53f4b74f100300e409f5a18110c7a5"/>
 </record_update>
